@@ -69,6 +69,7 @@ Full stack web developer from Srinagar, Kashmir. I graduated with a **B.Tech in 
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mehranmir1750&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&ring_color=58a6ff" alt="GitHub stats" />
+&hide_rank=true
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehranmir1750&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top languages" />
 
 <br/>
