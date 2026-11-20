@@ -1,54 +1,88 @@
+<div align="center">
 
-# Hi, I'm Mehran 👋
+# Mir Abdul Mehran
 
-💻 Computer Science Engineering Student | Developer | Tech Enthusiast
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Full+Stack+Web+Developer;B.Tech+CSE+%7C+IUST+Srinagar;Currently+mastering+React" alt="Typing intro" />
 
-## 🚀 Programming Languages
+<br/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-161b22?style=flat-square&logo=linkedin&logoColor=58a6ff)](https://www.linkedin.com/in/mehran-mir)
+[![Email](https://img.shields.io/badge/Email-161b22?style=flat-square&logo=gmail&logoColor=58a6ff)](mailto:mehranmir789@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=58a6ff)](https://github.com/Mehranmir1750)
 
-## 📊 Data Science & Machine Learning
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-
-## 🗄️ Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-## 🌐 Web Development & Tools
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+</div>
 
 ---
 
-## 📈 GitHub Statistics
+## About
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mehranmir1750&show_icons=true&theme=github_dark&hide_border=true)
-
-## 💻 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehranmir1750&layout=compact&theme=github_dark&hide_border=true)
-
-## 🔥 Contribution Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Mehranmir1750&theme=github-dark&hide_border=true)
+Full stack web developer from Srinagar, Kashmir. I graduated with a **B.Tech in Computer Science Engineering (2026)** from the **Islamic University of Science and Technology (IUST)**. I build real, deployed web products, from student tools to e-commerce stores, and I'm currently mastering **React**.
 
 ---
 
-### 🤝 Connect With Me
+## Featured Projects
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mehranmir1750)
+| Project | What it does | Link |
+| :-- | :-- | :-- |
+| **IUST Network** | A platform where students post lost items and help others find them | [Live site](https://iust-network.vercel.app/) |
+| **JewelKash** | A full e-commerce website for jewellery | [Live site](https://jewellkash.vercel.app/) |
+| **Rare Finds Kashmir** | Online store for a thrifted clothing brand, with order emails and status updates | [Live site](https://rarefindskashmir.vercel.app/) |
+
+---
+
+## Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-161b22?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-161b22?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-161b22?style=flat-square&logo=openjdk&logoColor=white)
+
+**Web**
+
+![React](https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-161b22?style=flat-square&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-161b22?style=flat-square&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-161b22?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-161b22?style=flat-square&logo=css3&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-161b22?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-161b22?style=flat-square&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-161b22?style=flat-square&logo=mongodb&logoColor=white)
+
+**Data and tools**
+
+![NumPy](https://img.shields.io/badge/NumPy-161b22?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-161b22?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-161b22?style=flat-square&logo=plotly&logoColor=white)
+![Git](https://img.shields.io/badge/Git-161b22?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=white)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mehranmir1750&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&ring_color=58a6ff" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehranmir1750&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Mehranmir1750&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" alt="GitHub streak" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Let's build something together
+
+[LinkedIn](https://www.linkedin.com/in/mehran-mir) &nbsp;·&nbsp; [Email](mailto:mehranmir789@gmail.com) &nbsp;·&nbsp; [GitHub](https://github.com/Mehranmir1750)
+
+</div>
